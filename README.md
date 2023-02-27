@@ -1,10 +1,10 @@
-# SushiSwap
+# ZSwap
 
-https://sushi.com/
+https://zswap.com/
 
 ## Deployed Contracts
 
-https://dev.sushi.com/sushiswap/contracts
+https://dev.zswap.com/zswap/contracts
 
 ## Docs
 
